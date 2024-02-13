@@ -58,9 +58,3 @@ The Random Forest classifier is utilized to predict the success of products base
 6. **Model Evaluation:**
    - The trained model is used to make predictions on the test set, and its accuracy is evaluated.
 
-## Repository Structure
-
-- `historic.csv`: The dataset containing historical product launch data.
-- `analysis.ipynb`: Jupyter Notebook containing data preprocessing, analysis, modeling, and evaluation steps.
-- `README.md`: The file you're currently reading, providing an overview of the project.
-
